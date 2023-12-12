@@ -1,0 +1,8 @@
+openai
+langchain
+streamlit
+chainlit
+transformers
+accelerate
+bitsandbytes
+ctransformers
