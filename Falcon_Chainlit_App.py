@@ -11,7 +11,7 @@ llm = HuggingFaceHub(huggingfacehub_api_token=huggingfacehub_api_token,
                      model_kwargs={"temperature":0.6, "max_new_tokens":2000})
 
 template = """
-You are an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.
+You are a helpful, respectful and honest assistant.
 
 {question}
 
