@@ -1,7 +1,7 @@
 myenv/
+Main*/
 __pycache__/
 .chainlit/
 .env
 user_data.py
-Gemini_raw*
-GPT_raw*
+*raw*
