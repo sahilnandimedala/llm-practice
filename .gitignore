@@ -1,5 +1,4 @@
 myenv/
-Main*/
 __pycache__/
 .chainlit/
 .env
